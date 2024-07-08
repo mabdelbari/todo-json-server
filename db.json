@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1720403581710",
+      "content": "Study",
+      "completed": true
+    },
+    {
+      "id": "1720403584582",
+      "content": "Learn",
+      "completed": false
+    },
+    {
+      "id": "1720403594992",
+      "content": "Deliver a task",
+      "completed": false
+    },
+    {
+      "id": "1720403602982",
+      "content": "Complete assessment",
+      "completed": false
+    }
+  ]
+}
